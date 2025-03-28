@@ -26,6 +26,6 @@ Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do cur
 🔗 GitHub: github.com/gleicielesouza
 ---
 
-💡 _"A programação é uma jornada de descoberta contínua, onde cada linha de código é uma nova oportunidade de aprendizado."
+💡 "A programação é uma jornada de descoberta contínua, onde cada linha de código é uma nova oportunidade de aprendizado."
 
 *Linus Torvalds*
