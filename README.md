@@ -23,9 +23,9 @@ Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do cur
 
 ## 📬 Contato
 📧 Email: gleicielesouza2001@gmail.com  
-🔗 GitHub: github.com/gleicielesouza
----
+🔗 GitHub: https://github.com/gleicielesouza
 
+---
 💡 "A programação é uma jornada de descoberta contínua, onde cada linha de código é uma nova oportunidade de aprendizado."
 
 *Linus Torvalds*
