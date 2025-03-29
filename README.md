@@ -11,8 +11,8 @@ Sou estudante de **Desenvolvimento Web com PHP** e estou aprendendo a construir 
 ## 📌 Projetos e Exercícios
 Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do curso:
 
-🔹Meu perfil [Projeto 1](https://github.com/gleicielesouza)
-🔹Apresentação Compartilhada [Projeto 2](https://github.com/gleicielesouza/NossoProjeto)
+🔹[Projeto 1](https://github.com/gleicielesouza)
+🔹[Projeto 2](https://github.com/gleicielesouza/NossoProjeto)
 
 
 ## 📖 O que estou aprendendo
